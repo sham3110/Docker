@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "learningdockerapp/1.0.0": {
+        "runtime": {
+          "learningdockerapp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "learningdockerapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
